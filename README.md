@@ -1,9 +1,15 @@
-<h2 align="left">Hi 👋! I am Chinmay....</h2>
-Hi, I’m Chinmaya, a passionate and driven developer focused on Python, Artificial Intelligence, and Machine Learning, with strong experience in full-stack web development using the MERN stack.<br><br>My primary interest lies in building intelligent systems and data-driven applications using Python, where I explore concepts in AI, Machine Learning, and data processing to create smart and efficient solutions.<br><br>Alongside AI/ML, I also work with modern web technologies and have hands-on experience developing full-stack web applications using the MERN stack. This allows me to combine intelligent backend systems with responsive and user-friendly web interfaces.<br><br>💡 What I do:<br>• Build AI/ML solutions and data-driven applications using Python<br>• Develop intelligent backend logic and automation systems<br>• Create responsive frontend applications using React<br>• Build full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js)<br><br>In parallel, I continue strengthening my foundation in Java and Data Structures & Algorithms (DSA) to improve my problem-solving and software engineering skills.<br><br>🔗 Skills:<br>Python | Artificial Intelligence | Machine Learning | HTML | CSS | JavaScript | React | Node.js | Express.js | MongoDB | PHP | MySQL | Git | Java <br><br>I’m always eager to learn new technologies, collaborate with developers, and contribute to impactful projects that combine AI with modern web development.
+<h1 align="left">Hi 👋 I am Chinmay ....</h1>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s4Y2V3ZHdvemZpMnNiemw2Y2V6YjdmYTJmeXI3OXF0Ym1qenJ1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay0502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay0502&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN1YzhqZnBqd2NnZHg0aWdlcXRhN3NhY3E1ajYxNGJ6NmRuMnQyMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif"  />
 
 ###
 
@@ -18,23 +24,23 @@ Hi, I’m Chinmaya, a passionate and driven developer focused on Python, Artific
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -42,11 +48,9 @@ Hi, I’m Chinmaya, a passionate and driven developer focused on Python, Artific
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
@@ -54,14 +58,25 @@ Hi, I’m Chinmaya, a passionate and driven developer focused on Python, Artific
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="chinmayakumarsahoo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/chinmaya-kumar-sahoo-23a815214/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
+Hi, I’m Chinmaya, a passionate and driven developer focused on Python, Artificial Intelligence, and Machine Learning, with strong experience in full-stack web development using the MERN stack.<br><br>My primary interest lies in building intelligent systems and data-driven applications using Python, where I explore concepts in AI, Machine Learning, and data processing to create smart and efficient solutions.<br><br>Alongside AI/ML, I also work with modern web technologies and have hands-on experience developing full-stack web applications using the MERN stack. This allows me to combine intelligent backend systems with responsive and user-friendly web interfaces.<br><br>💡 What I do:<br>• Build AI/ML solutions and data-driven applications using Python<br>• Develop intelligent backend logic and automation systems<br>• Create responsive frontend applications using React<br>• Build full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js)<br><br>In parallel, I continue strengthening my foundation in Java and Data Structures & Algorithms (DSA) to improve my problem-solving and software engineering skills.<br><br>🔗 Skills:<br>Python | Artificial Intelligence | Machine Learning | HTML | CSS | JavaScript | React | Node.js | Express.js | MongoDB | PHP | MySQL | Git | Java <br><br>I’m always eager to learn new technologies, collaborate with developers, and contribute to impactful projects that combine AI with modern web development.
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Chinmay0502/Chinmay0502/output/snake.svg" alt="Snake animation" />
