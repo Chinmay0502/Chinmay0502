@@ -1,12 +1,6 @@
 <h1 align="left">Hi 👋 I am Chinmay ....</h1>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay0502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay0502&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN1YzhqZnBqd2NnZHg0aWdlcXRhN3NhY3E1ajYxNGJ6NmRuMnQyMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif"  />
